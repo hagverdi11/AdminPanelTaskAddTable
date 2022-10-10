@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EntityFrameworkProject",
+    "\\EntityFrameworkProject\\Areas",
+    "\\EntityFrameworkProject\\Areas\\AdminArea",
+    "\\EntityFrameworkProject\\Areas\\AdminArea\\Views",
+    "\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Slider"
+  ],
+  "SelectedNode": "\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Slider\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
